@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 -->
 - 💬 Ask me about **Kotlin, Java & Docker**
 
-- 📫 How to reach me **git@twiese99.de**
+- 📫 How to reach me **tobias@twhx.de** (soon: **git@twiese99.de**)
 <!-- # currently no site
 - 📄 Know about my experiences [https://me.twiese99.de](https://me.twiese99.de)
 -->
