@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 -->
 - ⚡ Fun fact **I love to cuddle with dogs**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=twiese99&show_icons=true&locale=en&layout=compact" alt="twiese99" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=twiese99&show_icons=true&locale=en" alt="twiese99" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=twiese99&show_icons=true&locale=en" alt="twiese99" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=twiese99&show_icons=true&locale=en" alt="twiese99" /></p>-->
 
