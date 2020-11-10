@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [hibernate-dsl](https://github.com/twiese99/hibernate-dsl)
 
 - 🌱 I’m currently learning **Golang, VueJS & Kubernetes**
-<!-- 
-- 👯 I’m looking to collaborate on [project-name](https://github.com/twiese99/project-name)
 
-- 🤝 I’m looking for help with [project-name](https://github.com/twiese99/project-name)
--->
+- 👯 I’m looking to collaborate on [student-database](https://github.com/twiese99/student-database)
+
+- 🤝 I’m looking for help with [student-database](https://github.com/twiese99/student-database)
+
 - 👨‍💻 All of my projects are available at [https://github.com/twiese99](https://github.com/twiese99)
 <!-- # currently no site
 - 📝 I regulary write articles on [https://blog.twiese99.de](https://blog.twiese99.de)
