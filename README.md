@@ -19,3 +19,10 @@
 
 <p align="center"><img src="https://github-readme-stats.twiese99.vercel.app/api/top-langs?username=twiese99&show_icons=true&locale=en" alt="twiese99" /></p>
 
+<h4>About my activity on Github:</h4>
+<blockquote>
+I program almost daily and mainly in Java and Kotlin.<br />
+For this I mostly use tools like Maven and Gradle, as well as Docker.<br /> 
+Since my company doesn't use GitHub, you won't see that much activity on my account.<br />
+But I have some projects on my todo list, some of which I am already developing.
+</blockquote>
