@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tobias</h1>
 <h3 align="center">A developer from Germany</h3>
 
-- 🔭 I’m currently working on [hibernate-dsl](https://github.com/twiese99/hibernate-dsl)
+- 🔭 I’m currently working on **nothing** (because of Covid-19)
 
 - 🌱 I’m currently learning **Golang, VueJS & Kubernetes**
 
