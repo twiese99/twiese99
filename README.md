@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I love to cuddle with dogs**
 
-<p align="center"><img src="https://github-readme-stats.twiese99.vercel.app/api/top-langs?username=twiese99&show_icons=true&locale=en" alt="twiese99" /></p>
+<p align="center"><img src="https://github-readme-stats-nine-theta.vercel.app/api/top-langs?username=twiese99&show_icons=true&locale=en" alt="twiese99" /></p>
 
 <h4>About my activity on Github:</h4>
 <blockquote>
